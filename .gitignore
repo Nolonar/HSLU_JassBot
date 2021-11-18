@@ -1,0 +1,6 @@
+.vscode
+__pycache__
+jass-kit-*/
+ML/
+CasualTea/training_data_*/jass_game_*.txt
+CasualTea/training_data_*/player_all_stat.json
