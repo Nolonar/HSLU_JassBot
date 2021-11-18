@@ -1,5 +1,7 @@
 # CasualTea DL4G bot
 
+Jass bot created for the DL4G-HS20 module at HSLU
+
 ## Requirements
 
 - Python 3.8 or later
